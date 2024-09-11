@@ -1,4 +1,4 @@
-# lab3_xylophone
+# lab5_xylophone
 
 A new Flutter project.
 ![image](https://github.com/user-attachments/assets/c0c325d5-064d-4924-96da-bf4c4a7720cb)
